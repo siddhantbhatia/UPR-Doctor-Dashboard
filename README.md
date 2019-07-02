@@ -1,8 +1,7 @@
 # UPR - Universal Patient Record 
+![monitor dashboard](https://user-images.githubusercontent.com/30483239/60526947-e8ffb880-9d23-11e9-86aa-0915dad0823a.png)
 
-<img width="1074" alt="Monitor Dashboard" src="https://user-images.githubusercontent.com/30483239/60526947-e8ffb880-9d23-11e9-86aa-0915dad0823a.png">
-
-This application displays universal patient records stored in the FHIR SERVER. The term **universal** means that there is a single record for each patient which can be accessed by any authorized doctor. This will eliminate the time spent to conduct redundant tests, such as cholesterol and blood type. 
+This minimalistic UI application displays universal patient records stored in the FHIR SERVER. The term **universal** means that there is a single record for each patient which can be accessed by any authorized doctor. This will eliminate the time spent to conduct redundant tests, such as cholesterol and blood type. 
 
 Plus, medical reports are often reported in esoteric, hard-to-read lab reports. This application displays the observation over time-series graphs to quickly identify the changes over the past.
 
